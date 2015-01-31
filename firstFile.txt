@@ -1,1 +1,3 @@
-This is technically my second file
+firstFile content line one
+
+Line 3
